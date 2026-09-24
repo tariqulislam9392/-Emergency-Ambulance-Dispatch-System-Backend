@@ -160,3 +160,4 @@ def get_hospitals(db: db_dependency,
 
     return hospital_list(db, q, page, page_size)
 
+#test endpoint to check if the server is running 
